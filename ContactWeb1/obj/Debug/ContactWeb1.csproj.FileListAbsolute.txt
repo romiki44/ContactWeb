@@ -1,0 +1,244 @@
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\ApplicationInsights.config
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\ContactWeb1.dll.config
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\ContactWeb1.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\ContactWeb1.pdb
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\csc.exe
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\csc.exe.config
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\csc.rsp
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\csi.exe
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\csi.exe.config
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\csi.rsp
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.AppContext.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Collections.Immutable.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Console.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Diagnostics.Process.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.IO.Compression.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.IO.FileSystem.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.IO.Pipes.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Reflection.Metadata.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Security.AccessControl.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Claims.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Principal.Windows.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Threading.Thread.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.ValueTuple.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Xml.XmlDocument.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Xml.XPath.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\vbc.exe
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\vbc.exe.config
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\vbc.rsp
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\VBCSCompiler.exe
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\roslyn\VBCSCompiler.exe.config
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Antlr3.Runtime.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\EntityFramework.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\EntityFramework.SqlServer.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.Agent.Intercept.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.DependencyCollector.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.Web.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.WindowsServer.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.ApplicationInsights.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.Core.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Cookies.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Facebook.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Google.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.OAuth.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Twitter.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Web.Infrastructure.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Newtonsoft.Json.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Owin.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Diagnostics.DiagnosticSource.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.Helpers.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.Mvc.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.Optimization.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.Razor.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.WebPages.Deployment.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.WebPages.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.WebPages.Razor.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\WebGrease.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.Helpers.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.Mvc.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.Optimization.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.Razor.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.WebPages.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.WebPages.Deployment.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Web.WebPages.Razor.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Newtonsoft.Json.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Antlr3.Runtime.pdb
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\EntityFramework.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\EntityFramework.SqlServer.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.Core.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Facebook.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Cookies.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Google.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Twitter.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.OAuth.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\System.Diagnostics.DiagnosticSource.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.DependencyCollector.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.WindowsServer.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.AI.Web.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\visual studio 2017\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csprojAssemblyReference.cache
+G:\visual studio 2017\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csproj.CoreCompileInputs.cache
+G:\visual studio 2017\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csproj.CopyComplete
+G:\visual studio 2017\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.dll
+G:\visual studio 2017\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.pdb
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\ApplicationInsights.config
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\ContactWeb1.dll.config
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\ContactWeb1.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\ContactWeb1.pdb
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\csc.exe
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\csc.exe.config
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\csc.rsp
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\csi.exe
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\csi.exe.config
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\csi.rsp
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.AppContext.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Collections.Immutable.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Console.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Diagnostics.Process.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.IO.Compression.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.IO.FileSystem.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.IO.Pipes.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Reflection.Metadata.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Security.AccessControl.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Claims.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Security.Principal.Windows.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Threading.Thread.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.ValueTuple.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Xml.XmlDocument.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Xml.XPath.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\vbc.exe
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\vbc.exe.config
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\vbc.rsp
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\VBCSCompiler.exe
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\roslyn\VBCSCompiler.exe.config
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Antlr3.Runtime.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\EntityFramework.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\EntityFramework.SqlServer.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.Agent.Intercept.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.DependencyCollector.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.Web.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.WindowsServer.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.ApplicationInsights.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.Core.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Cookies.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Facebook.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Google.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.OAuth.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Twitter.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Web.Infrastructure.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Newtonsoft.Json.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Owin.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Diagnostics.DiagnosticSource.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.Helpers.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.Mvc.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.Optimization.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.Razor.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.WebPages.Deployment.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.WebPages.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.WebPages.Razor.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\WebGrease.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.Helpers.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.Mvc.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.Optimization.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.Razor.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.WebPages.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.WebPages.Deployment.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Web.WebPages.Razor.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Newtonsoft.Json.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Antlr3.Runtime.pdb
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\EntityFramework.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\EntityFramework.SqlServer.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.Core.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Facebook.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Cookies.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Google.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.Twitter.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.Owin.Security.OAuth.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\System.Diagnostics.DiagnosticSource.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.DependencyCollector.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.WindowsServer.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.AI.Web.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csprojAssemblyReference.cache
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csproj.CoreCompileInputs.cache
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csproj.CopyComplete
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.dll
+G:\visual studio 2017\Brian Gorman\ASPNET MVC Quickstart\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.pdb
