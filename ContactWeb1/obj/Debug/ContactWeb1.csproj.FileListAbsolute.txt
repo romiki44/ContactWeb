@@ -364,3 +364,5 @@ C:\Users\romik\Source\Repos\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csproj.
 C:\Users\romik\Source\Repos\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csproj.CopyComplete
 C:\Users\romik\Source\Repos\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.dll
 C:\Users\romik\Source\Repos\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.pdb
+C:\Users\romik\Source\Repos\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.Migrations.InitialCreate.resources
+C:\Users\romik\Source\Repos\ContactWeb\ContactWeb1\obj\Debug\ContactWeb1.csproj.GenerateResource.cache
