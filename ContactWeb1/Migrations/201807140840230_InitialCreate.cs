@@ -8,6 +8,26 @@ namespace ContactWeb1.Migrations
         public override void Up()
         {
             CreateTable(
+                "dbo.Contacts",
+                c => new
+                {
+                    Id = c.Int(nullable: false, identity: true),
+                    UserId = c.Guid(nullable: false),
+                    FirstName = c.String(),
+                    LastName = c.String(),
+                    Email = c.String(),
+                    PhonePrimary = c.String(),
+                    PhoneSecondary = c.String(),
+                    BirthDay = c.DateTime(nullable: false),
+                    StreetAdress1 = c.String(),
+                    StreetAdress2 = c.String(),
+                    City = c.String(),
+                    State = c.String(),
+                    Zip = c.String(),
+                })
+                .PrimaryKey(t => t.Id);
+
+            CreateTable(
                 "dbo.AspNetRoles",
                 c => new
                     {
@@ -79,6 +99,8 @@ namespace ContactWeb1.Migrations
         
         public override void Down()
         {
+            DropTable("dbo.Contacts");
+
             DropForeignKey("dbo.AspNetUserRoles", "UserId", "dbo.AspNetUsers");
             DropForeignKey("dbo.AspNetUserLogins", "UserId", "dbo.AspNetUsers");
             DropForeignKey("dbo.AspNetUserClaims", "UserId", "dbo.AspNetUsers");
