@@ -17,11 +17,15 @@ namespace ContactWeb1
 
             bundles.Add(new ScriptBundle("~/bundles/datatables").Include(
                         "~/js/lib/dataTables.min.js"));
+            bundles.Add(new ScriptBundle("~/bundles/jqueryui").Include(
+                        "~/js/lib/jquery-ui.min.js"));
+
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/css/bootstrap.min.css",
                       "~/css/datatables.min.css",
-                      "~/css/site.css"));
+                      "~/css/site.css",
+                      "~/css/jquery-ui.min.css"));
         }
     }
 }
